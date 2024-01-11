@@ -35,7 +35,7 @@ Following design patterns will be covered in the project:
 - Flyweight
 - Proxy
 
-## The main purpose of creation of this project
+## The main purpose of creating this project
 I am currently learning about Design Patterns at the university.
 This project helps me remember the thing I study more effortlessly. 
 Before taking the Design Patterns course,
